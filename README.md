@@ -60,13 +60,8 @@ Mengelola alur permainan.
    - Tekan tombol `Play` di Unity Editor untuk memulai permainan.
    - Kontrol burung menggunakan tombol `Space` atau klik mouse.
 
-## 🖼️ Screenshot
-Tambahkan screenshot gameplay Anda di sini.
-
-## 📜 Lisensi
-Proyek ini bebas digunakan untuk tujuan belajar dan non-komersial. Namun, untuk menggunakan secara komersial, mohon hubungi pengembang.
 
 ## 📧 Kontak
-Jika Anda memiliki pertanyaan, silakan hubungi [dimasajiprimadiansyah@gmail.com](mailto:dimasajiprimadiansyah@gmail.com).
+[dimasajiprimadiansyah@gmail.com](mailto:dimasajiprimadiansyah@gmail.com).
 
 
