@@ -1,4 +1,4 @@
-# Unity LostBird
+# LostBird
 
 Ini adalah proyek sederhana yang dibuat menggunakan Unity untuk mengimplementasikan gameplay serupa dengan game populer "Flappy Bird". Proyek ini mencakup beberapa skrip untuk menangani parallax, objek pipa, kontrol pemain, spawn otomatis, dan manajemen game.
 
